@@ -1,0 +1,26 @@
+.movie-btn {
+  background-color: transparent;
+  margin: 20px 10px 20px 0px;
+  border: none;
+  cursor: pointer;
+}
+
+.modal {
+  width: 100%;
+  height: 500px;
+}
+
+.close-btn-container {
+  text-align: right;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.icon {
+  font-size: 25px;
+}

@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 10px auto;
+}
+
+.wrapper h1 {
+  color: #fff;
+  font-family: 'Roboto';
+}
+
+.movies-ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  height: auto;
+}
